@@ -14,7 +14,7 @@ BigQuery(SQL), Python, Power BI
 2. Country-based analysis: player distribution, average age, market value
 3. Position and sub-position breakdown
 4. Market value and transfer trends
-5. Four clusters were created using the clustering process.
+5. Four clusters were created using the clustering process:
   - Cluster 0: Many transfers, acquires young players, mostly foreign.
   - Cluster 1: Few transfers, older players, low cost, and mostly domestic.
   - Cluster 2: Medium number of transfers, very young players, mostly foreign.

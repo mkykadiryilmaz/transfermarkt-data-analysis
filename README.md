@@ -6,15 +6,15 @@ In this project, statistical values ​​were analyzed according to countries a
 BigQuery(SQL), Python, Power BI
 
 ## Key Findings
-Global KPIs: total players, clubs, leagues, active players
-Country-based analysis: player distribution, average age, market value
-Position and sub-position breakdown
-Market value and transfer trends
-Four clusters were created using the clustering process.
-Cluster 0: Many transfers, acquires young players, mostly foreign.
-Cluster 1: Few transfers, older players, low cost, and mostly domestic.
-Cluster 2: Medium number of transfers, very young players, mostly foreign.
-Cluster 3: High budget, acquires experienced but expensive players, medium foreign player ratio.
+*Global KPIs: total players, clubs, leagues, active players
+*Country-based analysis: player distribution, average age, market value
+*Position and sub-position breakdown
+*Market value and transfer trends
+*Four clusters were created using the clustering process.
+  Cluster 0: Many transfers, acquires young players, mostly foreign.
+  Cluster 1: Few transfers, older players, low cost, and mostly domestic.
+  Cluster 2: Medium number of transfers, very young players, mostly foreign.
+  Cluster 3: High budget, acquires experienced but expensive players, medium foreign player ratio.
 
 ## Dashboard
 ![Dashboard](images/ds1.png)

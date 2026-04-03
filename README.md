@@ -23,6 +23,11 @@ Cluster 3: High budget, acquires experienced but expensive players, medium forei
 ![Dashboard](images/ds4.png)
 ![Dashboard](images/ds5.png)
 
-## Conclusion
+## Sources
+Main KPI's Project: [View My Project](https://drive.google.com/file/d/1SeNy5AdbJlSR8Ri7Dmw2O-pfJWM1eUxv/view?usp=sharing)
+Dataset: [Data Source](https://www.kaggle.com/datasets/davidcariboo/player-scores?select=players.csv)
+Cluster.pbix
+Pattern_v3.ipnyb
 
+## Conclusion
 Data-driven insights were generated to support scouting and decision-making.
